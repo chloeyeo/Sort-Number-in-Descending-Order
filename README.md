@@ -1,6 +1,6 @@
 # Sort-Number-in-Descending-Order
 
-Sort the given number typed in by the user in a descending order.
+Sorts the given number typed in by the user in a descending order.
 
 For example, 54321 gives out 12345 as output;
 
