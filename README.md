@@ -6,6 +6,8 @@ For example, 54321 gives out 12345 as output;
 
 223166 gives out 663221 as output.
 
+----------
+
 Important thing learnt:
 
 -  Scanner.nextInt() or Scanner.next() does not read the newline in input that is created
