@@ -8,7 +8,7 @@ For example, 54321 gives out 12345 as output;
 
 Important thing learnt:
 
--  Scanner.nextInt() or Scanner.next() does not read newline in input created
+-  Scanner.nextInt() or Scanner.next() does not read the newline in input that is created
 
 	 when the user hits enter, therefore we use an extra Scanner.nextLine() before
    
